@@ -1,2 +1,3 @@
-# serie-sql
+# Serie SQL
+
 Repositório para os exemplos da Série SQL
